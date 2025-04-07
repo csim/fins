@@ -1,4 +1,4 @@
-baseurl = "https://csim.dev/fins"
+baseurl = "https://finsofourfathers.com"
 DefaultContentLanguage = "en"
 title = ""
 # Using theme as git submodule
@@ -95,3 +95,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
