@@ -95,7 +95,3 @@ pygmentsCodefencesGuessSyntax = true
 
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
