@@ -1,4 +1,4 @@
-baseurl = "https://csim.github.io/fins"
+baseurl = "https://csim.dev/fins"
 DefaultContentLanguage = "en"
 title = ""
 # Using theme as git submodule
