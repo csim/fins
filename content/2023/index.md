@@ -7,8 +7,7 @@ weight: 1
 params:
   theme: light
 resources:
-  - src: IMG_1061.jpg
+  - src: IMG_8019_cover.jpg
     params:
       cover: true
-  - src: IMG_1060.jpg
 ---

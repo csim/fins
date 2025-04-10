@@ -3,7 +3,6 @@ description: ""
 menus: "main"
 title: "2025"
 weight: 1
-#categories: ["2025"]
 params:
   theme: light
 resources:
